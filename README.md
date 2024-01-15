@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hassen Bentahar
+- 👋 Hi, I’m Hassen Bentaher
 - 👀 I’m interested in Data scientist_MachineLearning_DeepLearning_NLP_TimeSeriesforecasting
 - 🌱 I’m currently researcher in Electrical Engineering_Power system & Renewable Energy .
 - 💞️ I’m looking to collaborate on optimal control and energy management based on deep reinforcement learning
